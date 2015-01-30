@@ -19,4 +19,4 @@ Session.vim
 .netrwhist
 
 # bundles installed should be ignored
-bundle
+#bundle
